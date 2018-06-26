@@ -1,2 +1,21 @@
-# rnkm-staff
-main website for preview staff in chula 102 (รับน้องก้าวใหม่) 4-6 Aug 2018
+# rnkm_staff
+
+> preview website for RNKM staff
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
