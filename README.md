@@ -1,7 +1,6 @@
 # rnkm_staff
 
 > preview website for RNKM staff
-> form : https://goo.gl/forms/K0e9zDqoG2qfB0Z22
 
 ## Build Setup
 
